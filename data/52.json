@@ -1,0 +1,42 @@
+{
+    "city": "Praha",
+    "country": "CZ",
+    "date": "2024-09-07",
+    "start_time": "08:30",
+    "end_time": null,
+    "timezone": "CET",
+    "url": "https://czechia.measurecamp.org/",
+    "tickets_url": "https://www.eventbrite.co.uk/e/measurecamp-czechia-2024-registration-911192249547",
+    "city_editions_count": 0,
+    "mc_index": 54,
+    "twitter": "@MeasureCampCZ",
+    "venue": {
+        "name": "ČSOB SHQ",
+        "address": "Výmolova 353, 150 00 Praha 5",
+        "gmaps": "https://www.google.com/maps/place/%C4%8CSOB+SHQ/@50.0572031,14.3856235,17z/data=!3m1!4b1!4m6!3m5!1s0x470b955111aa4a69:0x2870f55422e8dcb4!8m2!3d50.0571997!4d14.3881984!16s%2Fg%2F11j07w2hxj?entry=tts&g_ep=EgoyMDI0MDcwNy4xKgBIAVAD"
+    },
+    "metadata": {
+        "tickets_sold": null,
+        "attendees": null
+    },
+    "sponsors": [{
+        "name": "Analytics Debugger",
+        "tier": "Gold"
+    }],
+    "ticket_releases": [{
+        "date": "2024-06-11",
+        "time": "10:00",
+        "timezone": "CEST",
+        "description": "1st Ticket Release"
+    }, {
+        "date": "2024-07-11",
+        "time": "16:00",
+        "timezone": "CEST",
+        "description": "2st Ticket Release"
+    }, {
+        "date": "2024-08-06",
+        "time": "10:00",
+        "timezone": "CEST",
+        "description": "3st Ticket Release"
+    }]
+}

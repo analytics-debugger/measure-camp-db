@@ -1,0 +1,24 @@
+{
+    "city": "London",
+    "country": "UK",
+    "date": "2024-09-21",
+    "start_time": "09:30",
+    "end_time": null,
+    "timezone": "UTC",
+    "url": "https://london.measurecamp.org/",
+    "tickets_url": "https://www.eventbrite.co.uk/e/measurecamp-london-17-digital-data-analytics-un-conference-tickets-882921922237",
+    "city_editions_count": 17,
+    "mc_index": 56,
+    "twitter": "@MeasureCampLDN",
+    "venue": {
+        "name": "Etc Venues Fenchurch Street",
+        "address": "etc.venues Fenchurch Street, 8 Fenchurch Pl, London EC3M 4PB",
+        "gmaps": "https://goo.gl/maps/zNssAueBjT6FuRM5A"
+    },
+    "metadata": {
+        "tickets_sold": null,
+        "attendees": null
+    },
+    "sponsors": [],
+    "ticket_releases": []
+}

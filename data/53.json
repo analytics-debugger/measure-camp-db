@@ -1,0 +1,39 @@
+{
+    "city": "Berlin",
+    "country": "DE",
+    "date": "2024-09-21",
+    "start_time": "09:30",
+    "end_time": null,
+    "timezone": "CET",
+    "url": "https://berlin.measurecamp.org/",
+    "tickets_url": "https://www.eventbrite.co.uk/e/measurecamp-czechia-2024-registration-911192249547",
+    "city_editions_count": 0,
+    "mc_index": 54,
+    "twitter": "@MeasureCampBer",
+    "venue": {
+        "name": "sumup offices Berlin",
+        "address": "Koppenstraße 8, 10243 Berlin",
+        "gmaps": null
+    },
+    "metadata": {
+        "tickets_sold": null,
+        "attendees": null
+    },
+    "sponsors": [],
+    "ticket_releases": [{
+        "date": "2024-06-11",
+        "time": "10:00",
+        "timezone": "CEST",
+        "description": "1st Ticket Release"
+    }, {
+        "date": "2024-07-11",
+        "time": "16:00",
+        "timezone": "CEST",
+        "description": "2st Ticket Release"
+    }, {
+        "date": "2024-08-06",
+        "time": "10:00",
+        "timezone": "CEST",
+        "description": "3st Ticket Release"
+    }]
+}

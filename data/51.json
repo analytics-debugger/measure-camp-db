@@ -1,0 +1,24 @@
+{
+    "city": "Chicago",
+    "country": "US",
+    "date": "2024-09-07",
+    "start_time": "09:00",
+    "end_time": null,
+    "timezone": "CDT",
+    "url": "https://chicago.measurecamp.org/",
+    "tickets_url": "https://www.eventbrite.com/e/measurecamp-chicago-2022-tickets-274013013527",
+    "city_count": 0,
+    "overall_count": 45,
+    "twitter": "@MeasureCampCHI",
+    "venue": {
+        "name": "Leo Burnett Building",
+        "address": "Publicis Sapient: 35 W Wacker Dr 21st Floor, Chicago, IL 60601",
+        "gmaps": "https://www.google.com/maps/place/35+W+Wacker+Dr/@41.8865869,-87.6317632,17z/data=!4m7!3m6!1s0x880e2cb03d3b6dfd:0xc8846d723fc7200d!4b1!8m2!3d41.8865829!4d-87.6291883!16s%2Fg%2F11c5nz1cys?entry=ttu"
+    },
+    "metadata": {
+        "tickets_sold": null,
+        "attendees": null
+    },
+    "sponsors": [],
+    "ticket_releases": []
+}
