@@ -2,12 +2,19 @@
 # Measure Camp DB
 
 Database from previous and upcoming MeasureCamp Editions
-
+ 
 
 # DRAFT: Spec
 
 This a beta specification
+|**Key**|**Value**|**Description**|
+|--|--|--|
+| `revision` | 20240805000000 | TimeStamp |
+| `build_time` | "2024-08-05 00:00:00" | Build TimeStamp |
+| `checksum` | "6332e130363a894b42fbaa522cc5242eed3e8dfb0e8b81606d15899331e7ed90" | editions object checksum |
+| `editions` | [[Editions Array]] |  |
 
+## Event Main Object
 |**Key**|**Value**|**Description**|
 |--|--|--|
 | `mc_index` | 54 | A unique identifier or index for this MeasureCamp event. |
