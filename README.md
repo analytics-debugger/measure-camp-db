@@ -2,7 +2,7 @@
 # Measure Camp DB
 
 Database from previous and upcoming MeasureCamp Editions
- 
+
 
 # DRAFT: Spec
 
