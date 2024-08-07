@@ -53,3 +53,8 @@ This a beta specification
 | `ticket_releases.time` | 10:00 | The time of the first ticket release. |
 | `ticket_releases.timezone` | CEST | The time zone of the first release. |
 | `ticket_releases.description`| 1st Ticket Release | A description of the first ticket release. |
+
+## Ticket Releases Object
+| **Date** | **Country** | **City** | **Link** |
+|--|--|--|--|
+| `2012-09-22` | UK | London | 1.json |
