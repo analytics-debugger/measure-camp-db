@@ -8,7 +8,7 @@
     "end_time": null,
     "timezone": "GTM",
     "url": "https://london.measurecamp.org/",
-    "tickets_url": "https://www.eventbrite.co.uk/e/measurecamp-london-1-digital-data-analytics-un-conference-tickets-882921922237",
+    "tickets_url": "https://www.eventbrite.co.uk/e/measurecamp-london-3-digital-data-analytics-un-conference-tickets-882921922237",
     "twitter": "@MeasureCampLDN",
     "venue": {
         "name": null,
@@ -31,6 +31,6 @@
     },{
         "name": "SweetSpot Intelligence",
         "tier": null
-    }]],
+    }],
     "ticket_releases": []
 }

@@ -1,14 +1,14 @@
 {
-    "mc_index": 2,
-    "city_editions_count": 2,
+    "mc_index": 6,
+    "city_editions_count": 5,
     "city": "London",
     "country": "UK",
-    "date": "2013-02-16",
+    "date": "2014-09-20",
     "start_time": "09:00",
     "end_time": null,
     "timezone": "GTM",
     "url": "https://london.measurecamp.org/",
-    "tickets_url": "https://www.eventbrite.co.uk/e/measurecamp-london-2-digital-data-analytics-un-conference-tickets-882921922237",
+    "tickets_url": null,
     "twitter": "@MeasureCampLDN",
     "venue": {
         "name": null,

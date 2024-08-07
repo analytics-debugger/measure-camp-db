@@ -1,0 +1,24 @@
+{
+    "mc_index": 5,
+    "city_editions_count": 1,
+    "city": "Paris",
+    "country": "FR",
+    "date": "2014-07-05",
+    "start_time": "09:00",
+    "end_time": null,
+    "timezone": "GTM",
+    "url": "https://paris.measurecamp.org/",
+    "tickets_url": null,
+    "twitter": "@assoAADF",
+    "venue": {
+        "name": null,
+        "address": null,
+        "gmaps": null
+    },
+    "metadata": {
+        "tickets_sold": null,
+        "attendees": null
+    },
+    "sponsors": [],
+    "ticket_releases": []
+}

@@ -62,10 +62,10 @@ This a beta specification
 | #1 | `2012-09-22` | UK | London | [1.json](data/1.json) | in progress | false
 | #2 | `2013-02-16` | UK | London | [2.json](data/2.json) | in progress | false
 | #3 | `2013-09-14` | UK | London | [3.json](data/3.json) | in progress | false
-| #4 | (not set) | (not set) | (not set) | [4.json](data/4.json) | missing | false
-| #5 | (not set) | (not set) | (not set) | [5.json](data/5.json) | missing | false
-| #6 | (not set) | (not set) | (not set) | [6.json](data/6.json) | missing | false
-| #7 | (not set) | (not set) | (not set) | [7.json](data/7.json) | missing | false
+| #4 | `2014-03-29` | UK | London | [4.json](data/4.json) | missing | false
+| #5 | `2014-07-05` | FR | Paris | [5.json](data/5.json) | missing | false
+| #6 | `2014-09-20` | UK | London | [6.json](data/6.json) | missing | false
+| #7 | `2015-03-29` | (not set) | (not set) | [7.json](data/7.json) | missing | false
 | #8 | (not set) | (not set) | (not set) | [8.json](data/8.json) | missing | false
 | #9 | (not set) | (not set) | (not set) | [9.json](data/9.json) | missing | false
 | #10 | (not set) | (not set) | (not set) | [10.json](data/10.json) | missing | false
