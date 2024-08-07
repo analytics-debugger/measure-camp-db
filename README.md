@@ -1,23 +1,40 @@
 
+  
+
 # Measure Camp DB
 
+  
+
 Database from previous and upcoming MeasureCamp Editions
- 
+
+  
 
 # DRAFT: Spec
 
+  
+
 This a beta specification
+
 |**Key**|**Value**|**Description**|
+
 |--|--|--|
+
 | `revision` | 20240805000000 | TimeStamp |
+
 | `build_time` | "2024-08-05 00:00:00" | Build TimeStamp |
+
 | `checksum` | "6332e130363a894b42fbaa522cc5242eed3e8dfb0e8b81606d15899331e7ed90" | editions object checksum |
-| `editions` | [[Editions Array]] |  |
+
+| `editions` | [[Editions Array]] | |
+
+  
 
 ## Event Main Object
+
 |**Key**|**Value**|**Description**|
 |--|--|--|
-| `mc_index` | 54 | A unique identifier or index for this MeasureCamp event. |
+| `mc_index` | 54 | Overall MeasureCamp event index for this edition. |
+| `city_edition_index` | 4 | Event index for this edition. Total editions on this city |
 | `city` | Praha | The city where the event is taking place. |
 | `country` | CZ | The country where the event is taking place. |
 | `date` | 2024-09-07 | The date of the event in ISO 8601 format (YYYY-MM-DD). |
@@ -35,14 +52,16 @@ This a beta specification
 | `metadata.attendees` | null | Number of attendees, currently set to null. |
 | `sponsors` | [[Sponsors Array]] | |
 | `ticket_releases` | [[Ticket Releases Array]] | |
- 
+
 ## Sponsors Object
+
 | **Key** | **Value** | **Description** |
 |--|--|--|
 | `sponsors.name`| Analytics Debugger | The name of a sponsor. |
-| `sponsors.tier`| Gold | The sponsorship tier. |  
+| `sponsors.tier`| Gold | The sponsorship tier. |
 
 ## Ticket Releases Object
+
 | **Key** | **Value** | **Description** |
 |--|--|--|
 | `ticket_releases.date` | 2024-06-11| The date of the first ticket release. |
@@ -50,7 +69,10 @@ This a beta specification
 | `ticket_releases.timezone` | CEST | The time zone of the first release. |
 | `ticket_releases.description`| 1st Ticket Release | A description of the first ticket release. |
 
+  
+
 ## MeasureCamp Editions
+
 | **Date** | **Country** | **City** | **Link** | **Verified ** |
-|--|--|--|--|
+|--|--|--|--|--|
 | `2012-09-22` | UK | London | [1.json](data/1.json) | false |
