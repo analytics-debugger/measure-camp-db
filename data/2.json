@@ -1,9 +1,9 @@
 {
-    "mc_index": 1,
-    "city_editions_count": 1,
+    "mc_index": 2,
+    "city_editions_count": 2,
     "city": "London",
     "country": "UK",
-    "date": "2012-09-22",
+    "date": "2013-02-16",
     "start_time": "09:00",
     "end_time": null,
     "timezone": "GTM",
@@ -19,18 +19,6 @@
         "tickets_sold": null,
         "attendees": null
     },
-    "sponsors": [{
-        "name": "Calltracks",
-        "tier": null
-    },{
-        "name": "Tag Commander",
-        "tier": null
-    },{
-        "name": "iJento",
-        "tier": null
-    },{
-        "name": "Webtrends",
-        "tier": null
-    }],
+    "sponsors": [],
     "ticket_releases": []
 }
