@@ -1,0 +1,24 @@
+{
+    "mc_index": 8,
+    "city_editions_count": 6,
+    "city": "London",
+    "country": "UK",
+    "date": "2015-03-14",
+    "start_time": "09:00",
+    "end_time": null,
+    "timezone": "GTM",
+    "url": "https://london.measurecamp.org/",
+    "tickets_url": null,
+    "twitter": "@MeasureCampLDN",
+    "venue": {
+        "name": null,
+        "address": null,
+        "gmaps": null
+    },
+    "metadata": {
+        "tickets_sold": null,
+        "attendees": null
+    },
+    "sponsors": [],
+    "ticket_releases": []
+}
