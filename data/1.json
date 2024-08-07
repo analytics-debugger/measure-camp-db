@@ -1,4 +1,6 @@
 {
+    "mc_index": 1,
+    "city_editions_count": 1,
     "city": "London",
     "country": "UK",
     "date": "2012-09-22",
@@ -7,12 +9,10 @@
     "timezone": "GTM",
     "url": "https://london.measurecamp.org/",
     "tickets_url": "https://www.eventbrite.com/e/measurecamp-chicago-2022-tickets-274013013527",
-    "city_count": 0,
-    "overall_count": 45,
-    "twitter": "@MeasureCampCHI",
+    "twitter": "@MeasureCampLDN",
     "venue": {
         "name": "Mozilla HQ",
-        "address": "Publicis Sapient: 35 W Wacker Dr 21st Floor, Chicago, IL 60601",
+        "address": "101 St. Martins Lane, WC2N 4AZ",
         "gmaps": null
     },
     "metadata": {
