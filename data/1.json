@@ -1,0 +1,36 @@
+{
+    "city": "London",
+    "country": "UK",
+    "date": "2012-09-22",
+    "start_time": "09:00",
+    "end_time": null,
+    "timezone": "GTM",
+    "url": "https://london.measurecamp.org/",
+    "tickets_url": "https://www.eventbrite.com/e/measurecamp-chicago-2022-tickets-274013013527",
+    "city_count": 0,
+    "overall_count": 45,
+    "twitter": "@MeasureCampCHI",
+    "venue": {
+        "name": "Mozilla HQ",
+        "address": "Publicis Sapient: 35 W Wacker Dr 21st Floor, Chicago, IL 60601",
+        "gmaps": null
+    },
+    "metadata": {
+        "tickets_sold": null,
+        "attendees": null
+    },
+    "sponsors": [{
+        "name": "Calltracks",
+        "tier": null
+    },{
+        "name": "Tag Commander",
+        "tier": null
+    },{
+        "name": "iJento",
+        "tier": null
+    },{
+        "name": "Webtrends",
+        "tier": null
+    }],
+    "ticket_releases": []
+}
